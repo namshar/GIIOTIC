@@ -1,0 +1,57 @@
+mac set_appkey 112233445566778899aabbccddeeff01
+>> Ok
+
+mac set_dr 0
+>> Ok
+
+mac set_power 20
+>> Ok
+
+mac set_adr on
+>> Ok
+
+mac set_txretry 8
+>> Ok
+
+mac set_rxdelay1 1000
+>> Ok
+
+mac set_rx2 4 866550000
+>> Ok
+
+mac set_ch_freq 0 865062500
+>> Ok
+
+mac set_ch_freq 1 865402500
+>> Ok
+
+mac set_ch_freq 2 865985000
+>> Ok
+
+mac set_ch_dr_range 0 0 5
+>> Ok
+
+mac set_ch_dr_range 1 0 5
+>> Ok
+
+mac set_ch_dr_range 2 0 5
+>> Ok
+
+mac set_dc_ctl off
+>> Ok
+
+mac set_class A
+>> Ok
+
+mac save
+
+
+
+
+
+
+>> Ok
+
+
+
+
